@@ -1,0 +1,28 @@
+h1{
+    font-size: 50px;
+    font-family: 'Alkatra', cursive;
+    text-align: left;
+    color:rgb(235, 63, 103)
+}
+body{
+    background-color: rgb(254 238 239);
+}
+img {
+    max-width: 100%;
+    float: none
+}
+h2{
+color: rgb(202, 34, 126);
+font-size: 25px;
+font-family:'Alkatra', cursive;
+text-align: left;
+}
+ul
+{
+ color: rgb(168, 25, 123);  
+ font-size: large; 
+ font-family:'Alkatra', cursive;
+font-weight:bolder;
+}
+
+    
